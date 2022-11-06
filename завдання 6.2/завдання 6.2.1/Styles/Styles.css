@@ -1,0 +1,14 @@
+* {
+    margin-top: 250px;
+    padding: 0;
+    }
+
+.block {  
+	margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-radius: 50px; 
+    box-shadow: 0 0 0 50px white,
+                0 0 0 100px red;
+}
