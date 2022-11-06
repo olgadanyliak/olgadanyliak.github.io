@@ -69,10 +69,11 @@ img {
     text-align: right;
 }
 
-.experience {
-    height: 200px;
-    background: red;
-}  
+.line {
+    margin: 20px 20px 30px 20px;
+    height: 2px;
+    background: #808080;
+} 
 
 @media screen and (min-width: 800px) {
     .personal-info,
@@ -85,4 +86,33 @@ img {
     .experience {
         width: 70%;
     }
+}
+
+.experience {
+    padding: 25px;
+    background: #fff;
+}
+
+.title {
+    font-weight: 800;
+}
+
+.item.col-2 {
+     font-weight: 800;
+}
+
+.link-btn {
+    display: inline-block;
+    padding: 30px;
+    border: 1px solid #000; 
+    border-radius: 20px;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all .5s ease;
+}
+.link-btn:hover {
+    color: #fff;
+    background-color: #000;
+    transition: all .5s ease;
 }
