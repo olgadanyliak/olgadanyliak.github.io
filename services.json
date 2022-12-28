@@ -2,32 +2,32 @@
   "title" : "The Service We Provide For You",
   "services" : [
     {
-      "icon" : "images/icons/icon1",
+      "icon" : "icons/icon1",
       "title" : "Development",
       "text" : "Create a platform with the best and coolest quality from us.",
     },
     {
-      "icon" : "images/icons/icon2",
+      "icon" : "icons/icon2",
       "title" : "UI/UX Designer",
       "text" : "We provide UI/UX Design services, and of course with the best quality",
     },
     {
-      "icon" : "images/icons/icon3",
+      "icon" : "icons/icon3",
       "title" : "Graphik Designer",
       "text" : "We provide Graphic Design services, with the best designers",
     },
     {
-      "icon" : "images/icons/icon4",
+      "icon" : "icons/icon4",
       "title" : "Motion Graphik",
       "text" : "Create a platform with the best and coolest quality from us.",
     },
     {
-      "icon" : "images/icons/icon5",
+      "icon" : "icons/icon5",
       "title" : "Photography",
       "text" : "We provide Photography services, and of course with the best quality",
     },
     {
-      "icon" : "images/icons/icon6",
+      "icon" : "icons/icon6",
       "title" : "Videography",
       "text" : "Create a platform with the best and coolest quality from us.",
     },
