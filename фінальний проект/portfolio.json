@@ -1,0 +1,20 @@
+{
+  "title" : "Our Awesome Portofolio",
+  "services" : [
+    {
+      "image" : "images/portfolio/image28",
+      "title" : "Development",
+      "text" : "Create a platform with the best and coolest quality from us.",
+    },
+    {
+      "image" : "images/portfolio/image29",
+      "title" : "UI/UX Designer",
+      "text" : "We provide UI/UX Design services, and of course with the best quality",
+    },
+    {
+      "image" : "images/portfolio/image30",
+      "title" : "Graphik Designer",
+      "text" : "We provide Graphic Design services, with the best designers",
+    },
+  ]
+}
